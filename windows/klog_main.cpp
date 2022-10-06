@@ -7,6 +7,8 @@
 #include <time.h>
 #include <map>
 
+//this program is created by mohammed azeem.
+
 // defines whether the window is visible or not
 // should be solved with makefile, not in this file
 #define visible // (visible / invisible)
